@@ -1,11 +1,11 @@
 {
   "id": "spaceworld_back_sprites",
   "name": "Spaceworld's Sprites",
+  "github": "hydhyro/gen1recompSpaceWorldSprites",
   "version": "1.0",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
-  "game_version": ">=0.0.0-dev <1.0.0",
   "category": "GRAPHICS",
   "priority": 50,
   "dependencies": [],
