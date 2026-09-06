@@ -1,8 +1,8 @@
 {
   "id": "spaceworld_back_sprites",
-  "name": "Spaceworld's Sprites",
+  "name": "Spaceworld's Back Sprites",
   "github": "hydhyro/gen1recompSpaceWorldSprites",
-  "version": "1.0",
+  "version": "1.0.0",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
